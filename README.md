@@ -2,6 +2,7 @@
 The file contains three main codes, "hands_of_blue", "delete_range", and "peer_evals", all from an assignment from an introductory coding class. 
 
 Here are some test cases for the codes, as an example of what to write. 
+  
   hands_of_blue(["Bee", "Bee", "Puppycat", "Puppycat", "Deckard", "Deckard", "Cardamon", "Cardamon"])
  
   s = "I love the show Bee and Puppycat! My favorite character is most definitely Puppycat or Cardamon!"
